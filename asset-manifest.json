@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tk-snap-repository/static/css/main.8d54c2d8.css",
+    "main.js": "/tk-snap-repository/static/js/main.70d434df.js",
+    "static/js/787.515547fc.chunk.js": "/tk-snap-repository/static/js/787.515547fc.chunk.js",
+    "static/media/cat1.png": "/tk-snap-repository/static/media/cat1.4e8b0617045772d27726.png",
+    "index.html": "/tk-snap-repository/index.html",
+    "main.8d54c2d8.css.map": "/tk-snap-repository/static/css/main.8d54c2d8.css.map",
+    "main.70d434df.js.map": "/tk-snap-repository/static/js/main.70d434df.js.map",
+    "787.515547fc.chunk.js.map": "/tk-snap-repository/static/js/787.515547fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d54c2d8.css",
+    "static/js/main.70d434df.js"
+  ]
+}
